@@ -89,6 +89,7 @@ namespace WSR
         private void Auth_Load(object sender, EventArgs e)
         {
             userTableAdapter1.Fill(wsrDataSet1.User);
+            //асса малейкум
         }
 
         private void button1_Click(object sender, EventArgs e)
