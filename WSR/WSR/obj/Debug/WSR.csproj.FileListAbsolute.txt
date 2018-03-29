@@ -1,0 +1,147 @@
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\bin\Debug\WSR.exe.config
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\bin\Debug\WSR.exe
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\bin\Debug\WSR.pdb
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.Form1.resources
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.Properties.Resources.resources
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.tmplt.resources
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.csproj.GenerateResource.Cache
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.exe
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.pdb
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.Auth.resources
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.Director.resources
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.kladovschik.resources
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.manager.resources
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.Register.resources
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.zakazchikcs.resources
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.OstTkani.resources
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.listFurn.resources
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.listTkani.resources
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.OstFurn.resources
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.Constructor.resources
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.listIz.resources
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.production.resources
+c:\users\competitor\documents\visual studio 2015\Projects\WSR\WSR\obj\Debug\WSR.Izdelie.resources
+C:\Users\Competitor\Documents\Visual Studio 2015\Projects\WSR\WSR\obj\Debug\WSR.Invent.resources
+C:\Users\Competitor\Documents\Visual Studio 2015\Projects\WSR\WSR\obj\Debug\WSR.moveMaterial.resources
+C:\Users\Competitor\Documents\Visual Studio 2015\Projects\WSR\WSR\obj\Debug\WSR.newOrder.resources
+C:\Users\Competitor\Documents\Visual Studio 2015\Projects\WSR\WSR\obj\Debug\WSR.csprojResolveAssemblyReference.cache
+C:\Users\Competitor\Documents\Visual Studio 2015\Projects\WSR\WSR\obj\Debug\WSR.listOrders.resources
+C:\Users\Competitor\Documents\Visual Studio 2015\Projects\WSR\WSR\obj\Debug\WSR.proizvodstvo.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\bin\Debug\WSR.exe.config
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\bin\Debug\WSR.exe
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\bin\Debug\WSR.pdb
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.csprojResolveAssemblyReference.cache
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Auth.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Constructor.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Director.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Form1.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Invent.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Izdelie.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.kladovschik.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.listFurn.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.listIz.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.listOrders.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.listTkani.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.manager.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.moveMaterial.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.newOrder.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.OstFurn.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.OstTkani.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.production.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.proizvodstvo.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Properties.Resources.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Register.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.tmplt.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.zakazchikcs.resources
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.csproj.GenerateResource.Cache
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.exe
+C:\Users\Competitor\Desktop\2\Сессия 2\WSR\WSR\obj\Debug\WSR.pdb
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\bin\Debug\WSR.exe.config
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\bin\Debug\WSR.exe
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\bin\Debug\WSR.pdb
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.csprojResolveAssemblyReference.cache
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Auth.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Constructor.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Director.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Form1.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Invent.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Izdelie.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.kladovschik.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.listFurn.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.listIz.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.listOrders.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.listTkani.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.manager.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.moveMaterial.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.newOrder.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.OstFurn.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.OstTkani.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.production.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.proizvodstvo.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Properties.Resources.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Register.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.tmplt.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.zakazchikcs.resources
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.csproj.GenerateResource.Cache
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.exe
+C:\Users\alexz\Desktop\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.pdb
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\bin\Debug\WSR.exe.config
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\bin\Debug\WSR.exe
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\bin\Debug\WSR.pdb
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.csprojResolveAssemblyReference.cache
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Auth.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Constructor.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Director.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Form1.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Invent.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Izdelie.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.kladovschik.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.listFurn.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.listIz.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.listOrders.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.listTkani.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.manager.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.moveMaterial.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.newOrder.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.OstFurn.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.OstTkani.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.production.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.proizvodstvo.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Properties.Resources.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.Register.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.tmplt.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.zakazchikcs.resources
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.csproj.GenerateResource.Cache
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.csproj.CoreCompileInputs.cache
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.exe
+C:\Users\kofe1\Desktop\Новая папка\Проект Кристины\New folder\2\Сессия 2\WSR\WSR\obj\Debug\WSR.pdb
+D:\Документы\Code\wsrComplete\WSR\WSR\bin\Debug\WSR.exe.config
+D:\Документы\Code\wsrComplete\WSR\WSR\bin\Debug\WSR.exe
+D:\Документы\Code\wsrComplete\WSR\WSR\bin\Debug\WSR.pdb
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.csprojResolveAssemblyReference.cache
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.Auth.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.Constructor.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.Director.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.Form1.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.Invent.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.Izdelie.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.kladovschik.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.listFurn.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.listIz.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.listOrders.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.listTkani.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.manager.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.moveMaterial.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.newOrder.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.OstFurn.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.OstTkani.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.production.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.proizvodstvo.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.Properties.Resources.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.Register.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.tmplt.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.zakazchikcs.resources
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.csproj.GenerateResource.Cache
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.csproj.CoreCompileInputs.cache
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.exe
+D:\Документы\Code\wsrComplete\WSR\WSR\obj\Debug\WSR.pdb
